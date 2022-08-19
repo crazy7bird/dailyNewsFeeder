@@ -1,0 +1,47 @@
+korben :
+  type : rss
+  url : 'https://korben.info/feed'
+  deth : 3
+
+hackaday :
+  type : rss
+  url : 'https://hackaday.com/feed'
+  deth : 5
+
+electroniques :
+  type : rss
+  url : 'https://www.electroniques.biz/feed'
+  deth : 5
+
+rtl-sdr :
+  type : rss
+  url : 'https://www.rtl-sdr.com/feed'
+  deth : 5
+
+
+#https://www.mesdatasetmoi.fr/
+
+#cryptocurencies 
+bitcoin :
+  type : coingecko
+  token : 'bitcoin'
+  posses : 0.01
+  vs : 'eur'
+
+turtle :
+  type : coingecko
+  token : 'turtlecoin'
+  posses : 10_000_000
+  vs : 'eur'
+
+turtle2 :
+  type : coingecko
+  token : 'turtlecoin'
+  posses : 10_000_000
+  vs : 'usd'
+
+turtle3 :
+  type : coingecko
+  token : 'turtlecoin'
+  posses : 10_000_000
+  vs : 'btc'
